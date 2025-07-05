@@ -85,9 +85,4 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![Sashanka2001's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sashanka2001&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sashanka2001&theme=radical&layout=compact)
 
-## 📱 Connect with Me
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>](https://www.linkedin.com/in/sashanka-rathnayaka-5761ab267/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>](https://github.com/IT23231528chamudi)
-[<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="30" alt="HackerRank"/>](https://www.hackerrank.com/profile/chamudisashanka1)
-
 Thanks for visiting my profile! Feel free to check out my repositories and reach out for collaboration or just to say hi! 😄
