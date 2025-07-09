@@ -8,7 +8,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 - 👯 Open to collaborate on web apps, mobile apps, open-source projects, and full-stack solutions
 - 📫 Reach me at: chamudisashanka@gmail.com
 - Work Github Account: https://github.com/IT23231528chamudi
-- Portfolio : https://my-portfolio-website-lvj4-1i490lmr8-sasas-projects-8433159f.vercel.app/
+- Portfolio : https://my-portfolio-website-seven-sable.vercel.app/
 
  
 ## Programming Languages
