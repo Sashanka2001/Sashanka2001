@@ -17,7 +17,6 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![r](https://skillicons.dev/icons?i=r)
 ![javascript](https://skillicons.dev/icons?i=javascript)
 ![typescript](https://skillicons.dev/icons?i=ts)
-![cpp](https://skillicons.dev/icons?i=cpp)
  
 ## Frameworks and Libraries
 ![React](https://skillicons.dev/icons?i=react)
@@ -25,8 +24,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![angular](https://skillicons.dev/icons?i=angular)
-![jquery](https://skillicons.dev/icons?i=jquery)
+ 
 
 ## Web Technologies
 ![HTML](https://skillicons.dev/icons?i=html)
