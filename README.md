@@ -3,7 +3,7 @@
 I'm a passionate Web Developer from Sri Lanka. I love building innovative projects and contributing to open-source communities🚀
 
 ## About Me 
-- 🔭 Currently working on my portfolio site 
+- 🔭 Currently working on my CS-Study-Buddy-website
 - 🌱 Learning TypeScript, postgresql and Node.js
 - 👯 Open to collaborate on web apps, mobile apps, open-source projects, and full-stack solutions
 - 📫 Reach me at: chamudisashanka@gmail.com
