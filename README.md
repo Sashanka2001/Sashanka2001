@@ -40,7 +40,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ## Operating Systems
 ![linux](https://skillicons.dev/icons?i=linux)
 
-## Tools & DevOps
+## Tools
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Vite](https://skillicons.dev/icons?i=vite)
