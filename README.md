@@ -11,9 +11,9 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 - Portfolio : https://sashankar.vercel.app/
 
  ## Programming Languages
-![python](https://skillicons.dev/icons?i=python)
-![java](https://skillicons.dev/icons?i=java)
 ![c](https://skillicons.dev/icons?i=c)
+![java](https://skillicons.dev/icons?i=java)
+![python](https://skillicons.dev/icons?i=python)
 ![r](https://skillicons.dev/icons?i=r)
 ![javascript](https://skillicons.dev/icons?i=javascript)
 ![typescript](https://skillicons.dev/icons?i=ts)
