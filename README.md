@@ -35,6 +35,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ## Databases
 ![SQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ## Operating Systems
 ![linux](https://skillicons.dev/icons?i=linux)
@@ -50,7 +51,6 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 
 ## Hosting & Platforms
 ![Vercel](https://skillicons.dev/icons?i=vercel)
-![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Azure](https://skillicons.dev/icons?i=azure)
 
 ## Dev Methodologies & Paradigms
