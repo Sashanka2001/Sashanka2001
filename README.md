@@ -34,6 +34,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 
 ## Databases
 ![SQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
 ## Operating Systems
 ![linux](https://skillicons.dev/icons?i=linux)
