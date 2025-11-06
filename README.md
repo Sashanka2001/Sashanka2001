@@ -29,12 +29,6 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![HTML](https://skillicons.dev/icons?i=html)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 
-
-## Web Technologies
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
-
 ## Databases
 ![SQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
