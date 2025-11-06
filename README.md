@@ -26,7 +26,8 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
- 
+![HTML](https://skillicons.dev/icons?i=html)
+
 
 ## Web Technologies
 ![HTML](https://skillicons.dev/icons?i=html)
