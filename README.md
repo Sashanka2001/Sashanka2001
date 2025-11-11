@@ -14,10 +14,10 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![c](https://skillicons.dev/icons?i=c)
 ![java](https://skillicons.dev/icons?i=java)
 ![python](https://skillicons.dev/icons?i=python)
-![r](https://skillicons.dev/icons?i=r)
 ![javascript](https://skillicons.dev/icons?i=javascript)
 ![typescript](https://skillicons.dev/icons?i=ts)
 ![csharp](https://skillicons.dev/icons?i=cs)
+![r](https://skillicons.dev/icons?i=r)
  
 ## Frameworks and Libraries
 ![React](https://skillicons.dev/icons?i=react)
