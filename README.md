@@ -51,6 +51,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ## Hosting & Platforms
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Azure](https://skillicons.dev/icons?i=azure)
+![AWS](https://skillicons.dev/icons?i=aws)
 
 ## Dev Methodologies & Paradigms
 ![OOP](https://img.shields.io/badge/OOP-Principle-7E57C2?style=flat-square)
