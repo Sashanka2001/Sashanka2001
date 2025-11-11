@@ -57,7 +57,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![AWS](https://skillicons.dev/icons?i=aws)
 
-## Dev Methodologies & Paradigms
+## Development Concepts
 ![OOP](https://img.shields.io/badge/OOP-Principle-7E57C2?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID%20Principles-Design-0288D1?style=flat-square)
 ![BNF & EBNF](https://img.shields.io/badge/BNF%20%26%20EBNF-Formal%20Grammar-43A047?style=flat-square)
