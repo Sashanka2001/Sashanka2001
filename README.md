@@ -38,17 +38,16 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ## Operating Systems
 ![linux](https://skillicons.dev/icons?i=linux)
 
-## Tools
-![GitHub](https://skillicons.dev/icons?i=github)
+## Testing Tools
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Vite](https://skillicons.dev/icons?i=vite)
+
+## Design Tools and IDEs 
 ![figma](https://skillicons.dev/icons?i=figma)
-![arduino](https://skillicons.dev/icons?i=arduino)
 ![vscode](https://skillicons.dev/icons?i=vscode)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 
-##Project management Tools 
+## Project management Tools 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
 
@@ -66,6 +65,12 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 
 ## Networking and Security
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+## Others
+![GitHub](https://skillicons.dev/icons?i=github)
+![arduino](https://skillicons.dev/icons?i=arduino)
+![Vite](https://skillicons.dev/icons?i=vite)
+
 
 
 ## 📊 GitHub Stats
