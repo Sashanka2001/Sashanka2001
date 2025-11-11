@@ -46,6 +46,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![figma](https://skillicons.dev/icons?i=figma)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
 ![vscode](https://skillicons.dev/icons?i=vscode)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 
 ## Project management Tools 
@@ -60,8 +61,10 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ## Development Concepts
 ![OOP](https://img.shields.io/badge/OOP-Principle-7E57C2?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID%20Principles-Design-0288D1?style=flat-square)
-![BNF & EBNF](https://img.shields.io/badge/BNF%20%26%20EBNF-Formal%20Grammar-43A047?style=flat-square)
+![ACID](https://img.shields.io/badge/ACID-Database%20Transactions-green?style=flat-square)
 ![Agile](https://img.shields.io/badge/Agile-Methodology-F57C00?style=flat-square)
+![SDLC](https://img.shields.io/badge/SDLC-Software%20Development%20Lifecycle-9B59B6?style=flat-square)
+![BNF & EBNF](https://img.shields.io/badge/BNF%20%26%20EBNF-Formal%20Grammar-43A047?style=flat-square)
 ![Lex & Yacc](https://img.shields.io/badge/Lex%20%26%20Yacc-00599C?style=flat-square&logo=c&logoColor=white)
 
 ## Networking and Security
