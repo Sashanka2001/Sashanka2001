@@ -52,7 +52,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
 
-## Hosting & Platforms
+## Cloud Technologies
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![AWS](https://skillicons.dev/icons?i=aws)
