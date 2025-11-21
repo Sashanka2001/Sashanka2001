@@ -39,7 +39,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![linux](https://skillicons.dev/icons?i=linux)
 
 ## Testing Tools
-![Playwright](https://skillicons.dev/icons?i=playwright)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
