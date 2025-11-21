@@ -26,8 +26,8 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
+![HTML](https://skillicons.dev/icons?i=html)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 
 ## Databases
@@ -38,19 +38,24 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ## Operating Systems
 ![linux](https://skillicons.dev/icons?i=linux)
 
-## Tools 
-![GitHub](https://skillicons.dev/icons?i=github)
+## Testing Tools
 ![Postman](https://skillicons.dev/icons?i=postman)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Vite](https://skillicons.dev/icons?i=vite)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?
+
+## Design Tools and IDEs 
 ![figma](https://skillicons.dev/icons?i=figma)
-![arduino](https://skillicons.dev/icons?i=arduino)
+![Blender](https://skillicons.dev/icons?i=blender)
 ![vscode](https://skillicons.dev/icons?i=vscode)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+
+##Project management Tools 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
 
 ## Hosting & Platforms
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Azure](https://skillicons.dev/icons?i=azure)
+![AWS](https://skillicons.dev/icons?i=aws)
 
 ## Dev Methodologies & Paradigms
 ![OOP](https://img.shields.io/badge/OOP-Principle-7E57C2?style=flat-square)
@@ -59,14 +64,20 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![Agile](https://img.shields.io/badge/Agile-Methodology-F57C00?style=flat-square)
 ![Lex & Yacc](https://img.shields.io/badge/Lex%20%26%20Yacc-00599C?style=flat-square&logo=c&logoColor=white)
 
+## 📊 GitHub Stats
+![Chamudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT23231528chamudi&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT23231528chamudi&theme=radical&layout=compact)
+
 ## Networking and Security
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
+## Others
+![GitHub](https://skillicons.dev/icons?i=github)
+![Vite](https://skillicons.dev/icons?i=vite)
+![arduino](https://skillicons.dev/icons?i=arduino)
+
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sashanka2001&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sashanka2001&theme=radical&layout=compact&hide_border=true" />
-</p>
+![Sashanka2001's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sashanka2001&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
