@@ -80,8 +80,8 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![arduino](https://skillicons.dev/icons?i=arduino)
 
 ## 📊 GitHub Stats
-![Chamudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT23231528chamudi&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT23231528chamudi&theme=radical&layout=compact)
+![Chamudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sashanka2001&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sashanka2001&theme=radical&layout=compact)
 
 ---
 
