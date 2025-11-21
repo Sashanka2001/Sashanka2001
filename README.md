@@ -43,10 +43,13 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-
-## Design Tools and IDEs 
+## Design Tools 
 ![figma](https://skillicons.dev/icons?i=figma)
 ![Blender](https://skillicons.dev/icons?i=blender)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
+
+## IDEs
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 ![vscode](https://skillicons.dev/icons?i=vscode)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 
