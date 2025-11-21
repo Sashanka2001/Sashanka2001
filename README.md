@@ -71,10 +71,6 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![BNF & EBNF](https://img.shields.io/badge/BNF%20%26%20EBNF-Formal%20Grammar-43A047?style=flat-square)
 ![Lex & Yacc](https://img.shields.io/badge/Lex%20%26%20Yacc-00599C?style=flat-square&logo=c&logoColor=white)
 
-## 📊 GitHub Stats
-![Chamudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT23231528chamudi&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT23231528chamudi&theme=radical&layout=compact)
-
 ## Networking and Security
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
@@ -82,6 +78,10 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![arduino](https://skillicons.dev/icons?i=arduino)
+
+## 📊 GitHub Stats
+![Chamudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT23231528chamudi&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT23231528chamudi&theme=radical&layout=compact)
 
 ## 📊 GitHub Stats
 ![Sashanka2001's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sashanka2001&theme=radical&show_icons=true&hide_border=true&count_private=true)
