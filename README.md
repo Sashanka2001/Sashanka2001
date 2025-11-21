@@ -10,80 +10,57 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 - 🌐 Portfolio: https://sashankar.vercel.app/
 - 💼 Work Github: https://github.com/IT23231528chamudi
 
----
-
-## 🧠 Programming Languages
-![c](https://skillicons.dev/icons?i=c)
-![java](https://skillicons.dev/icons?i=java)
+ ## Programming Languages
 ![python](https://skillicons.dev/icons?i=python)
+![java](https://skillicons.dev/icons?i=java)
+![c](https://skillicons.dev/icons?i=c)
+![r](https://skillicons.dev/icons?i=r)
 ![javascript](https://skillicons.dev/icons?i=javascript)
 ![typescript](https://skillicons.dev/icons?i=ts)
 ![csharp](https://skillicons.dev/icons?i=cs)
-![r](https://skillicons.dev/icons?i=r)
-
----
-
-## 🚀 Frameworks & Libraries
+ 
+## Frameworks and Libraries
 ![React](https://skillicons.dev/icons?i=react)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 
----
-
-## 🛢️ Databases
-![MySQL](https://skillicons.dev/icons?i=mysql)
+## Databases
+![SQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 
----
+## Operating Systems
+![linux](https://skillicons.dev/icons?i=linux)
 
-## 🛢️ Operating Systems
-![Linux](https://skillicons.dev/icons?i=linux)
+## Tools 
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Vite](https://skillicons.dev/icons?i=vite)
+![figma](https://skillicons.dev/icons?i=figma)
+![arduino](https://skillicons.dev/icons?i=arduino)
+![vscode](https://skillicons.dev/icons?i=vscode)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 
----
-
-## 🧪 Testing Tools
-![Playwright](https://skillicons.dev/icons?i=playwright) 
-![Postman](https://skillicons.dev/icons?i=postman) 
-![Swagger](https://skillicons.dev/icons?i=swagger)
-
----
-
-## 🧰 Tools, IDEs & Design
-![Figma](https://skillicons.dev/icons?i=figma)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
-![RStudio](https://skillicons.dev/icons?i=rstudio)
-
----
-
-## 📌 Project Management
-![Jira](https://skillicons.dev/icons?i=jira)
-![ClickUp](https://skillicons.dev/icons?i=clickup)
-
----
-
-## ☁️ Cloud Platforms
+## Hosting & Platforms
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Azure](https://skillicons.dev/icons?i=azure)
-![AWS](https://skillicons.dev/icons?i=aws)
 
----
+## Dev Methodologies & Paradigms
+![OOP](https://img.shields.io/badge/OOP-Principle-7E57C2?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-Design-0288D1?style=flat-square)
+![BNF & EBNF](https://img.shields.io/badge/BNF%20%26%20EBNF-Formal%20Grammar-43A047?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile-Methodology-F57C00?style=flat-square)
+![Lex & Yacc](https://img.shields.io/badge/Lex%20%26%20Yacc-00599C?style=flat-square&logo=c&logoColor=white)
 
-## 🔧 Networking & Other Tools
-![Wireshark](https://skillicons.dev/icons?i=wireshark)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Arduino](https://skillicons.dev/icons?i=arduino)
-![Vite](https://skillicons.dev/icons?i=vite)
-![Linux](https://skillicons.dev/icons?i=linux)
-
----
+## Networking and Security
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 ## 📊 GitHub Stats
 <p align="center">
