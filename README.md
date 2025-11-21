@@ -40,7 +40,8 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 
 ## Testing Tools
 ![Postman](https://skillicons.dev/icons?i=postman)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Playwright](https://skillicons.dev/icons?i=playwright)
 
 ## Design Tools and IDEs 
 ![figma](https://skillicons.dev/icons?i=figma)
@@ -48,7 +49,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![vscode](https://skillicons.dev/icons?i=vscode)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
 
-##Project management Tools 
+## Project management Tools 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
 
