@@ -83,9 +83,6 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![Chamudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT23231528chamudi&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT23231528chamudi&theme=radical&layout=compact)
 
-## 📊 GitHub Stats
-![Sashanka2001's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sashanka2001&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
 ---
 
 ⭐ Thanks for visiting my profile — feel free to explore my repositories!
