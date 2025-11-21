@@ -1,16 +1,18 @@
-  # Hi, I'm Sashanka Rathnayaka!👩🏻
- 
-I'm a passionate Web Developer from Sri Lanka. I love building innovative projects and contributing to open-source communities🚀
+# Hi, I'm Sashanka Rathnayaka!👩🏻‍💻
 
-## About Me 
-- 🔭 Currently working on my CS-Study-Buddy-website
-- 🌱 Learning TypeScript, postgresql and .NET
-- 👯 Open to collaborate on web apps, mobile apps, open-source projects, and full-stack solutions
-- 📫 Reach me at: chamudisashanka@gmail.com
-- Work Github Account: https://github.com/IT23231528chamudi
-- Portfolio : https://sashankar.vercel.app/
+I'm a passionate Web Developer from Sri Lanka. I love building innovative projects and contributing to open-source communities 🚀
 
- ## Programming Languages
+## 👩‍💻 About Me 
+- 🔭 Currently working on my CS-Study-Buddy website
+- 🌱 Learning TypeScript, PostgreSQL, and .NET
+- 👯 Open to collaborate on web apps, mobile apps, open-source projects & full-stack solutions
+- 📫 Reach me at: **chamudisashanka@gmail.com**
+- 🌐 Portfolio: https://sashankar.vercel.app/
+- 💼 Work Github: https://github.com/IT23231528chamudi
+
+---
+
+## 🧠 Programming Languages
 ![c](https://skillicons.dev/icons?i=c)
 ![java](https://skillicons.dev/icons?i=java)
 ![python](https://skillicons.dev/icons?i=python)
@@ -18,68 +20,77 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![typescript](https://skillicons.dev/icons?i=ts)
 ![csharp](https://skillicons.dev/icons?i=cs)
 ![r](https://skillicons.dev/icons?i=r)
- 
-## Frameworks and Libraries
+
+---
+
+## 🚀 Frameworks & Libraries
 ![React](https://skillicons.dev/icons?i=react)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 
-## Databases
-![SQL](https://skillicons.dev/icons?i=mysql)
+---
+
+## 🛢️ Databases
+![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 
-## Operating Systems
-![linux](https://skillicons.dev/icons?i=linux)
+---
 
-## Testing Tools
-![Playwright](https://skillicons.dev/icons?i=playwright)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+## 🛢️ Operating Systems
+![Linux](https://skillicons.dev/icons?i=linux)
 
-## Design Tools and IDEs 
-![figma](https://skillicons.dev/icons?i=figma)
-![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
-![vscode](https://skillicons.dev/icons?i=vscode)
+---
+
+## 🧪 Testing Tools
+![Playwright](https://skillicons.dev/icons?i=playwright) 
+![Postman](https://skillicons.dev/icons?i=postman) 
+![Swagger](https://skillicons.dev/icons?i=swagger)
+
+---
+
+## 🧰 Tools, IDEs & Design
+![Figma](https://skillicons.dev/icons?i=figma)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+![RStudio](https://skillicons.dev/icons?i=rstudio)
 
-## Project management Tools 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
+---
 
-## Cloud Technologies
+## 📌 Project Management
+![Jira](https://skillicons.dev/icons?i=jira)
+![ClickUp](https://skillicons.dev/icons?i=clickup)
+
+---
+
+## ☁️ Cloud Platforms
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Azure](https://skillicons.dev/icons?i=azure)
 ![AWS](https://skillicons.dev/icons?i=aws)
 
-## Development Concepts
-![OOP](https://img.shields.io/badge/OOP-Principle-7E57C2?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID%20Principles-Design-0288D1?style=flat-square)
-![ACID](https://img.shields.io/badge/ACID-Database%20Transactions-green?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile-Methodology-F57C00?style=flat-square)
-![SDLC](https://img.shields.io/badge/SDLC-Software%20Development%20Lifecycle-9B59B6?style=flat-square)
-![BNF & EBNF](https://img.shields.io/badge/BNF%20%26%20EBNF-Formal%20Grammar-43A047?style=flat-square)
-![Lex & Yacc](https://img.shields.io/badge/Lex%20%26%20Yacc-00599C?style=flat-square&logo=c&logoColor=white)
+---
 
-## Networking and Security
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-## Others
+## 🔧 Networking & Other Tools
+![Wireshark](https://skillicons.dev/icons?i=wireshark)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![arduino](https://skillicons.dev/icons?i=arduino)
+![Arduino](https://skillicons.dev/icons?i=arduino)
 ![Vite](https://skillicons.dev/icons?i=vite)
+![Linux](https://skillicons.dev/icons?i=linux)
 
-
+---
 
 ## 📊 GitHub Stats
-![Sashanka2001's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sashanka2001&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sashanka2001&theme=radical&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sashanka2001&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sashanka2001&theme=radical&layout=compact&hide_border=true" />
+</p>
 
-Thanks for visiting my profile! Feel free to check out my repositories and reach out for collaboration or just to say hi! 😄
+---
+
+⭐ Thanks for visiting my profile — feel free to explore my repositories!
