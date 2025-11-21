@@ -11,13 +11,13 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 - 💼 Work Github: https://github.com/IT23231528chamudi
 
  ## Programming Languages
-![python](https://skillicons.dev/icons?i=python)
-![java](https://skillicons.dev/icons?i=java)
 ![c](https://skillicons.dev/icons?i=c)
-![r](https://skillicons.dev/icons?i=r)
+![java](https://skillicons.dev/icons?i=java)
+![python](https://skillicons.dev/icons?i=python)
 ![javascript](https://skillicons.dev/icons?i=javascript)
 ![typescript](https://skillicons.dev/icons?i=ts)
 ![csharp](https://skillicons.dev/icons?i=cs)
+![r](https://skillicons.dev/icons?i=r)
  
 ## Frameworks and Libraries
 ![React](https://skillicons.dev/icons?i=react)
