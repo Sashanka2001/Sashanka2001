@@ -47,7 +47,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![figma](https://skillicons.dev/icons?i=figma)
 ![Blender](https://skillicons.dev/icons?i=blender)
 ![Unity](https://skillicons.dev/icons?i=unity)
-![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
+![draw.io](https://img.shields.io/badge/draw.io-2D2D2D?style=flat-square&logo=diagramsdotnet&logoColor=F08705)
 
 ## IDEs
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
