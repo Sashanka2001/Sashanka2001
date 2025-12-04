@@ -46,6 +46,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ## Design Tools 
 ![figma](https://skillicons.dev/icons?i=figma)
 ![Blender](https://skillicons.dev/icons?i=blender)
+![Unity](https://skillicons.dev/icons?i=unity)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
 
 ## IDEs
@@ -79,7 +80,6 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![arduino](https://skillicons.dev/icons?i=arduino)
 
-## 📊 GitHub Stats
 ## 📊 GitHub Stats
 ![Sashanka Stats](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api?username=Sashanka2001&show_icons=true&theme=radical)
 ![Top Langs](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs/?username=Sashanka2001&layout=compact&theme=radical)
