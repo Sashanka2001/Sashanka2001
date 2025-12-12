@@ -84,8 +84,9 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![arduino](https://skillicons.dev/icons?i=arduino)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sashanka2001&show_icons=true&theme=transparent)
-![Top Langs](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs/?username=Sashanka2001&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sashanka2001&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sashanka2001&layout=compact&theme=github_dark)
 
 
 
