@@ -88,7 +88,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ## 📊 GitHub Stats
 
 <div align="left">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sashanka2001&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF" width="75%" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sashanka2001&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF" width="85%" />
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sashanka2001&show_icons=true&theme=github_dark)
