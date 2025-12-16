@@ -38,8 +38,11 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![vscode](https://skillicons.dev/icons?i=vscode)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![arduino](https://skillicons.dev/icons?i=arduino)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-2D2D2D?style=flat-square&logo=diagramsdotnet&logoColor=F08705)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
  
 ## Databases
 ![SQL](https://skillicons.dev/icons?i=mysql)
@@ -60,10 +63,6 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
- 
-## Project management Tools 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
 
 ## 📊 GitHub Stats
 
