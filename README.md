@@ -11,11 +11,10 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 - 👣 Medium: https://medium.com/@chamudi_sashanka
 - 💼 Work Github: https://github.com/IT23231528chamudi
 
-## Connect with me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sashanka-rathnayaka-5761ab267)
-
-
- ## Programming Languages
+ 
+ ## Programming Languages , Frameworks and Tools
+![React](https://skillicons.dev/icons?i=react)
+![Spring](https://skillicons.dev/icons?i=spring)
 ![c](https://skillicons.dev/icons?i=c)
 ![java](https://skillicons.dev/icons?i=java)
 ![python](https://skillicons.dev/icons?i=python)
@@ -23,47 +22,28 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![typescript](https://skillicons.dev/icons?i=ts)
 ![csharp](https://skillicons.dev/icons?i=cs)
 ![r](https://skillicons.dev/icons?i=r)
- 
-## Frameworks and Libraries
-![React](https://skillicons.dev/icons?i=react)
-![Spring](https://skillicons.dev/icons?i=spring)
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![HTML](https://skillicons.dev/icons?i=html)
+![Vite](https://skillicons.dev/icons?i=vite)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
-
+![figma](https://skillicons.dev/icons?i=figma)
+![Blender](https://skillicons.dev/icons?i=blender)
+![Unity](https://skillicons.dev/icons?i=unity)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+![vscode](https://skillicons.dev/icons?i=vscode)
+![GitHub](https://skillicons.dev/icons?i=github)
+![arduino](https://skillicons.dev/icons?i=arduino)
+![draw.io](https://img.shields.io/badge/draw.io-2D2D2D?style=flat-square&logo=diagramsdotnet&logoColor=F08705)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+ 
 ## Databases
 ![SQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
-
-## Operating Systems
-![linux](https://skillicons.dev/icons?i=linux)
-
-## Testing Tools
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-
-## Design Tools 
-![figma](https://skillicons.dev/icons?i=figma)
-![Blender](https://skillicons.dev/icons?i=blender)
-![draw.io](https://img.shields.io/badge/draw.io-2D2D2D?style=flat-square&logo=diagramsdotnet&logoColor=F08705)
-
-## Game Engines
-![Unity](https://skillicons.dev/icons?i=unity)
-
-## IDEs
-![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
-![vscode](https://skillicons.dev/icons?i=vscode)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
-
-## Project management Tools 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
 
 ## Hosting & Platforms
 ![Vercel](https://skillicons.dev/icons?i=vercel)
@@ -71,6 +51,18 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+## Operating Systems
+![linux](https://skillicons.dev/icons?i=linux)
+
+## Testing Tools
+![Postman](https://skillicons.dev/icons?i=postman)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+ 
+## Project management Tools 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
 
 ## Dev Methodologies & Paradigms
 ![OOP](https://img.shields.io/badge/OOP-Principle-7E57C2?style=flat-square)
@@ -81,13 +73,6 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![BNF & EBNF](https://img.shields.io/badge/BNF%20%26%20EBNF-Formal%20Grammar-43A047?style=flat-square)
 ![Lex & Yacc](https://img.shields.io/badge/Lex%20%26%20Yacc-00599C?style=flat-square&logo=c&logoColor=white)
 
-## Networking and Security
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-## Others
-![GitHub](https://skillicons.dev/icons?i=github)
-![Vite](https://skillicons.dev/icons?i=vite)
-![arduino](https://skillicons.dev/icons?i=arduino)
 
 ## 📊 GitHub Stats
 
