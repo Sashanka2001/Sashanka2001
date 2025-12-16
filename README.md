@@ -11,6 +11,10 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 - 👣 Medium: https://medium.com/@chamudi_sashanka
 - 💼 Work Github: https://github.com/IT23231528chamudi
 
+## Connect with me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sashanka-rathnayaka-5761ab267)
+
+
  ## Programming Languages
 ![c](https://skillicons.dev/icons?i=c)
 ![java](https://skillicons.dev/icons?i=java)
