@@ -4,7 +4,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 
 ## 👩‍💻 About Me 
 - 🔭 Currently working on Focus-Mode project & CS Study Buddy Mobile App
-- 🌱 Learning TypeScript, PostgreSQL, and .NET
+- 🌱 Learning TypeScript,MongoDB, and .NET
 - 👯 Open to collaborate on web apps, mobile apps, open-source projects & full-stack solutions
 - 📫 Reach me at: **chamudisashanka@gmail.com**
 - 🌐 Portfolio: https://sashankar.vercel.app/
