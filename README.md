@@ -72,7 +72,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sashanka2001&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF" width="85%" />
 </div>
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sashanka2001&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9) 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sashanka2001&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&include_all_commits=true)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sashanka2001&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 
