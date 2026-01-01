@@ -3,7 +3,7 @@
 I'm a passionate Web Developer from Sri Lanka. I love building innovative projects and contributing to open-source communities 🚀
 
 ## 👩‍💻 About Me 
-- 🔭 Currently working on Watchlist project & CS Study Buddy Mobile App
+- 🔭 Currently working on CS Study Buddy Mobile App
 - 🌱 Learning TypeScript,MongoDB, and .NET
 - 👯 Open to collaborate on web apps, mobile apps, open-source projects & full-stack solutions
 - 📫 Reach me at: **chamudisashanka@gmail.com**
