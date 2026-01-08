@@ -1,6 +1,6 @@
 # Hi, I'm Sashanka Rathnayaka!👩🏻‍💻
 
-I'm a passionate Web Developer from Sri Lanka. I love building innovative projects and contributing to open-source communities 🚀
+I'm a passionate Web Developer from Sri Lanka. I love building innovative projects and contributing to open-source communities 
 
 ## 👩‍💻 About Me 
 - 🔭 Currently working on CS Study Buddy Mobile App
