@@ -19,6 +19,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Vue.js](https://skillicons.dev/icons?i=vue)
 ![Express](https://skillicons.dev/icons?i=express)
 ![c](https://skillicons.dev/icons?i=c)
 ![java](https://skillicons.dev/icons?i=java)
