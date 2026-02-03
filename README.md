@@ -4,7 +4,7 @@ I'm a passionate Web Developer from Sri Lanka. I love building innovative projec
 
 ## 👩‍💻 About Me 
 - 🔭 Currently working on CS Study Buddy Mobile App
-- 🌱 Learning TypeScript,MongoDB, and .NET
+- 🌱 Learning MongoDB and vue.js
 - 👯 Open to collaborate on web apps, mobile apps, open-source projects & full-stack solutions
 - 📫 Reach me at: **chamudisashanka@gmail.com**
 - 🌐 Portfolio: https://sashankar.vercel.app/
