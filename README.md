@@ -3,7 +3,7 @@
 I'm a passionate Web Developer from Sri Lanka. I love building innovative projects and contributing to open-source communities 
 
 ## 👩‍💻 About Me 
-- 🔭 Currently working on Heapified_Devthon_3.0
+- 🔭 Currently working on CGO
 - 🌱 Learning MongoDB and vue.js
 - 👯 Open to collaborate on web apps, mobile apps, open-source projects & full-stack solutions
 - 📫 Reach me at: **chamudisashanka@gmail.com**
