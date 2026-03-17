@@ -1,11 +1,10 @@
-# Hi, I'm Sashanka Rathnayaka!👩🏻‍💻
+# Hi, I'm Sashanka Rathnayaka! 👩🏻‍💻
 
 So this is my once upon a time 
 
 ## 👩‍💻 About Me 
 - 🔭 Currently working on CGO
 - 🌱 Learning on vue.js
-- 👯 Open to collaborate on web apps, mobile apps, open-source projects & full-stack solutions
 - 📫 Reach me at:
 - 💼 Work Github: https://github.com/IT23231528chamudi
 
