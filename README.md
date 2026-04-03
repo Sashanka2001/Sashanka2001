@@ -5,10 +5,8 @@ So this is my once upon a time
 ## 👩‍💻 About Me 
 - 🔭 Currently working on CGO
 - 🌱 Learning on vue.js
-- 📫 Reach me at:
 - 💼 Work Github: https://github.com/IT23231528chamudi
 
- 
  ## Programming Languages , Frameworks and Tools
 ![React](https://skillicons.dev/icons?i=react)
 ![Spring](https://skillicons.dev/icons?i=spring)
