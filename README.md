@@ -7,16 +7,17 @@ So this is my once upon a time
 - 🌱 Learning on vue.js
 - 💼 Work Github: https://github.com/IT23231528chamudi
 
- ## Programming Languages , Frameworks and Tools
+ ##  Frameworks, Programming Languages and Tools
 ![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Vue.js](https://skillicons.dev/icons?i=vue)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Vue.js](https://skillicons.dev/icons?i=vue)
 ![Express](https://skillicons.dev/icons?i=express)
 ![c](https://skillicons.dev/icons?i=c)
 ![java](https://skillicons.dev/icons?i=java)
+![kotlin](https://skillicons.dev/icons?i=kotlin)
 ![python](https://skillicons.dev/icons?i=python)
 ![javascript](https://skillicons.dev/icons?i=javascript)
 ![typescript](https://skillicons.dev/icons?i=ts)
@@ -32,6 +33,7 @@ So this is my once upon a time
 ![Unity](https://skillicons.dev/icons?i=unity)
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 ![vscode](https://skillicons.dev/icons?i=vscode)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![arduino](https://skillicons.dev/icons?i=arduino)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
