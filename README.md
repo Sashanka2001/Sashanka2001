@@ -26,20 +26,8 @@ So this is my once upon a time
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![HTML](https://skillicons.dev/icons?i=html)
-![Vite](https://skillicons.dev/icons?i=vite)
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![figma](https://skillicons.dev/icons?i=figma)
-![Blender](https://skillicons.dev/icons?i=blender)
 ![Unity](https://skillicons.dev/icons?i=unity)
-![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
-![vscode](https://skillicons.dev/icons?i=vscode)
-![Android Studio](https://skillicons.dev/icons?i=androidstudio)
-![GitHub](https://skillicons.dev/icons?i=github)
 ![arduino](https://skillicons.dev/icons?i=arduino)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
-![draw.io](https://img.shields.io/badge/draw.io-2D2D2D?style=flat-square&logo=diagramsdotnet&logoColor=F08705)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
  
 ## Databases
